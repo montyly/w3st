@@ -45,7 +45,7 @@ Submissions on proprietary or closed-source tools are welcome, provided they sha
 
 ## Logistics
 
-- **When**: During Devconnect 2025 (half-day session)  
+- **When**: November 19th, During Devconnect 2025 (half-day session)  
 - **Where**: TBD (small venue, ~20 seats)  
 - **Attendees**: Limited, confirmation-based (join the [waiting list](https://forms.gle/MAhYjUFhAmv8qaic8)). Best way to secure a spot? Submit [a talk]((https://forms.gle/s13DQUP3toYZwxz56))!  
 
