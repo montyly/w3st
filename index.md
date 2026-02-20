@@ -75,7 +75,7 @@ Due to limited capacity, we're maintaining a waiting list. Priority will be give
 ## Logistics
 
 * **When**: March 31 or April 1, 2026, during [EthCC](https://ethcc.io/) (half-day session)
-* **Where**: Cannes, France (limited seats)
+* **Where**: Cannes, France (limited seats). The event will take place outside of EthCC main's venue, so no EthCC's ticket are needed
 * **Registration**: [Join the waiting list](https://forms.gle/ZwTLT24zGBAQtNWv7) - priority for speakers and contributors
 
 For questions: [josselin@seceureka.com](mailto:josselin@seceureka.com)
