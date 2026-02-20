@@ -5,10 +5,6 @@ title: "Web3 Security Tools Seminar (W3ST) 2026"
 
 # Web3 Security Tools Seminar (W3ST) 2026
 
-## A highly technical seminar for builders of blockchain security tools during EthCC 2026.
-
----
-
 ## What is it?
 
 The **Web3 Security Tools Seminar (W3ST)** is a focused gathering of developers and researchers who are **building security-focused tools** in the blockchain ecosystem.
