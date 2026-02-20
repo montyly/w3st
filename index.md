@@ -56,6 +56,7 @@ The following are examples of questions we would love to see discussed (not exha
 * How did you optimize your loop fixpoint to speed up your analysis?
 * What prompt-engineering techniques were the most impactful in your LLM-based tool?
 * How have LLMs improved your tools?
+* How vibe coding change your approach to program analysis?
 * What unexpected challenges emerged when scaling your tool to production?
 * What design decisions would you revisit given what you know now?
 
