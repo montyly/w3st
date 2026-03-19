@@ -26,9 +26,7 @@ This is a **discussion-driven seminar** where we prioritize interactive exchange
 
 ## Call for Presentations
 
-**Submissions open until March 14th, 2026**
-
-**[Submit your proposal](https://forms.gle/Un158hYmnwSi8mR17)**
+**The CFP is closed. The program will be published in a few days**
 
 We are looking for presentations that detail the technical aspects of tooling development. The target audience is fellow security tool experts, so we are seeking deeply technical submissions.
 
@@ -66,7 +64,7 @@ Submissions on proprietary or closed-source tools are welcome, provided they sha
 
 ## Register Your Interest
 
-**[Join the waiting list](https://forms.gle/ZwTLT24zGBAQtNWv7)**
+**REGISTRATION CLOSED**
 
 Due to limited capacity, we're maintaining a waiting list. Priority will be given to accepted speakers and active contributors to the security tooling ecosystem.
 
