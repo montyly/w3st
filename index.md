@@ -24,9 +24,31 @@ This is a **discussion-driven seminar** where we prioritize interactive exchange
 
 ---
 
+## Program
+
+Talks are either 15 or 25 minutes long, each followed by a 5-minute buffer for short break/transitions.
+
+| Time | Duration | Speaker | Affiliation | Talk |
+| --- | --- | --- | --- | --- |
+| 2:00 - 2:20 | 20 min | - | - | Kickoff and introductions |
+| 2:20 - 2:50 | 30 min | [Martin Monperrus](https://x.com/martinmonperrus) | KTH Royal Institute of Technology | Software Supply Chain Security of Web3 |
+| 2:50 - 3:20 | 30 min | [Patrick Collins](https://x.com/PatrickAlphaC) | Cyfrin | BattleChain: The pre-mainnet, post-testnet solution |
+| 3:20 - 3:30 | 10 min | - | - | Break #1 |
+| 3:30 - 4:00 | 30 min | [Troy Sargent](https://x.com/0xalpharush) | Asymmetric Research | Fuzzing Solana Runtimes |
+| 4:00 - 4:30 | 30 min | Kevin Valerio | Trail of Bits | Merge Them All: How We Brought State-of-the-Art Tooling into a Single Go Toolchain |
+| 4:30 - 4:50 | 20 min | - | - | Break #2 (snacks) |
+| 4:50 - 5:20 | 30 min | Andrei Vacaru | Runtime Verification | Simbolik: From just Debugging to a Full Security Toolkit |
+| 5:20 - 5:40 | 20 min | [Brandon Chong](https://x.com/MiloTruck) | - | Representing state coverage with invariants |
+| 5:40 - 5:50 | 10 min | - | - | Break #3 |
+| 5:50 - 6:20 | 30 min | [IVa](https://x.com/LisVikkk) | lumis | RDF Graphs for DeFi Systemic Risks: Lessons for Contract-Level Security |
+| 6:20 - 6:40 | 20 min | [Jan Kalivoda](https://x.com/jaczkal) | Ackee | Is It All Just Pattern Matching? (open discussion) |
+| 6:40 - End | - | - | - | End |
+
+---
+
 ## Call for Presentations
 
-**The CFP is closed. The program will be published in a few days**
+**The CFP is closed.**
 
 We are looking for presentations that detail the technical aspects of tooling development. The target audience is fellow security tool experts, so we are seeking deeply technical submissions.
 
@@ -66,15 +88,13 @@ Submissions on proprietary or closed-source tools are welcome, provided they sha
 
 **REGISTRATION CLOSED**
 
-Due to limited capacity, we're maintaining a waiting list. Priority will be given to accepted speakers and active contributors to the security tooling ecosystem.
-
 ---
 
 ## Logistics
 
 * **When**: March 31th, during [EthCC week](https://ethcc.io/) (2-7pm)
 * **Where**: Cannes, France (limited seats). The event will take place outside of EthCC main's venue, so no EthCC's ticket are needed
-* **Registration**: [Join the waiting list](https://forms.gle/ZwTLT24zGBAQtNWv7) - priority for speakers and contributors
+* **Registration**: Closed.
 
 For questions: [josselin@seceureka.com](mailto:josselin@seceureka.com)
 
