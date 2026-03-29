@@ -26,23 +26,22 @@ This is a **discussion-driven seminar** where we prioritize interactive exchange
 
 ## Program
 
-Talks are either 15 or 25 minutes long, each followed by a 5-minute buffer for short break/transitions.
-
 | Time | Duration | Speaker | Affiliation | Talk |
 | --- | --- | --- | --- | --- |
 | 2:00 - 2:20 | 20 min | - | - | Kickoff and introductions |
-| 2:20 - 2:50 | 30 min | [Martin Monperrus](https://x.com/martinmonperrus) | KTH Royal Institute of Technology | Software Supply Chain Security of Web3 |
-| 2:50 - 3:20 | 30 min | [Patrick Collins](https://x.com/PatrickAlphaC) | Cyfrin | BattleChain: The pre-mainnet, post-testnet solution |
-| 3:20 - 3:30 | 10 min | - | - | Break #1 |
-| 3:30 - 4:00 | 30 min | [Troy Sargent](https://x.com/0xalpharush) | Asymmetric Research | Fuzzing Solana Runtimes |
-| 4:00 - 4:30 | 30 min | Kevin Valerio | Trail of Bits | Merge Them All: How We Brought State-of-the-Art Tooling into a Single Go Toolchain |
-| 4:30 - 4:50 | 20 min | - | - | Break #2 (snacks) |
-| 4:50 - 5:20 | 30 min | Andrei Vacaru | Runtime Verification | Simbolik: From just Debugging to a Full Security Toolkit |
-| 5:20 - 5:40 | 20 min | [Brandon Chong](https://x.com/MiloTruck) | - | Representing state coverage with invariants |
-| 5:40 - 5:50 | 10 min | - | - | Break #3 |
-| 5:50 - 6:20 | 30 min | [IVa](https://x.com/LisVikkk) | lumis | RDF Graphs for DeFi Systemic Risks: Lessons for Contract-Level Security |
-| 6:20 - 6:40 | 20 min | [Jan Kalivoda](https://x.com/jaczkal) | Ackee | Is It All Just Pattern Matching? (open discussion) |
-| 6:40 - End | - | - | - | End |
+| 2:20 - 2:45 |   25 min | [Martin Monperrus](https://x.com/martinmonperrus) | KTH Royal Institute of Technology | Software Supply Chain Security of Web3                                             |
+| 2:45 - 3:10 |   25 min | [Patrick Collins](https://x.com/PatrickAlphaC)    | Cyfrin                            | BattleChain: The pre-mainnet, post-testnet solution                                |
+| 3:10 - 3:25 |   15 min | -                                                 | -                                 | Open Session / Break #1                                                            |
+| 3:25 - 3:50 |   25 min | [Troy Sargent](https://x.com/0xalpharush)         | Asymmetric Research               | Fuzzing Solana Runtimes                                                            |
+| 3:50 - 4:15 |   25 min | Kevin Valerio                                     | Trail of Bits                     | Merge Them All: How We Brought State-of-the-Art Tooling into a Single Go Toolchain |
+| 4:15 - 4:35 |   20 min | -                                                 | -                                 | Open Session / Break #2 (snacks)                                                   |
+| 4:35 - 5:00 |   25 min | Andrei Vacaru                                     | Runtime Verification              | Simbolik: From just Debugging to a Full Security Toolkit                           |
+| 5:00 - 5:15 |   15 min | [Jan Kalivoda](https://x.com/jaczkal)             | Ackee                             | Is It All Just Pattern Matching? (open discussion)                                 |
+| 5:15 - 5:30 |   15 min | -                                                 | -                                 | Open Session / Break #3                                                            |
+| 5:30 - 5:55 |   25 min | [IVa](https://x.com/LisVikkk)                     | lumis                             | RDF Graphs for DeFi Systemic Risks: Lessons for Contract-Level Security            |
+| 5:55 - 6:10 |   15 min | [Brandon Chong](https://x.com/MiloTruck)          | -                                 | Representing state coverage with invariants                                        |
+| 6:10 - 6:15 |    5 min | -                                                 | -                                 | Closing                                                                            |
+
 
 ---
 
